@@ -2,7 +2,7 @@ backend:
   name: github
   repo: vaccuss/icarianio
   branch: master
-  site_domain: icarian.io
+  site_domain: icasoftware.com
 
 media_folder: "images/uploads"
 publish_mode: editorial_workflow
